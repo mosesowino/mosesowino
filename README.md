@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @mosesowino
-- 👀 I’m interested in Cyber Security, AI, Data Science, Software Engineering 
-- 🌱 I’m currently learning python and data science 
-- 💞️ I’m looking to collaborate on any project intended to solve problems, solvable by the disciplines in my interest domain
-- 📫 How to reach me on WHATSAPP: +254714275196 ,  EMAIL: mosesowino1610@gmail.com ...
+
+---
+
+### 👋 Hi, I’m @mosesowino
+
+- **👀 I’m interested in:**  
+  Web development
+
+- **🌱 I’m currently learning:**  
+  Python, ReactJS
+
+- **💞️ I’m looking to collaborate on:**  
+  Projects in web development using React, Node.js, and Python
+
+- **📫 How to reach me:**  
+  - **WhatsApp:** +254714275196  
+  - **Email:** mosesowino1610@gmail.com
+
+---
+
 
 <!---
 mosesowino/mosesowino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
