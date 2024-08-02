@@ -7,7 +7,7 @@
   Web development
 
 - **🌱 I’m currently learning:**  
-  Python, ReactJS
+  Python, ReactJS, web3
 
 - **💞️ I’m looking to collaborate on:**  
   Projects in web development using React, Node.js, and Python
