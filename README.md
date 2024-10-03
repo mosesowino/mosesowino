@@ -4,13 +4,16 @@
 ### 👋 Hi, I’m @mosesowino
 
 - **👀 I’m interested in:**  
-  Web development
+  Web development, deep learning
 
 - **🌱 I’m currently learning:**  
-  Python, ReactJS, web3
+  Python, tensorflow
+
+- **🌱 I’m always learning :**
+  Python
 
 - **💞️ I’m looking to collaborate on:**  
-  Projects in web development using React, Node.js, and Python
+  Projects in web development and machine learning
 
 - **📫 How to reach me:**  
   - **WhatsApp:** +254714275196  
