@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in:<br>Software development, deep learning, cybersecurity<br><br>🌱 I’m currently learning:<br>pytorch<br><br>💞️ I’m looking to collaborate on:<br>Projects in java, Go and machine learning<br><br>📫 How to reach me:<br><br>WhatsApp: +254714275196<br>Email: mosesowino1610@gmail.com
+👀 I’m interested in:<br>Software development, deep learning, cybersecurity<br><br>🌱 I’m currently learning:<br>pytorch<br><br>💞️ I’m looking to collaborate on:<br>Projects in python, java, Go and machine learning<br><br>📫 How to reach me:<br><br>WhatsApp: +254714275196<br>Email: mosesowino1610@gmail.com
 
 
 ## 🌐 Socials:
